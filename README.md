@@ -4,22 +4,28 @@ Misfortune.SWF is an attempt to reimplement the infamous Misfortune.gb creepypas
 
 # Credits
 
-## Level Design 
-mrcolddeadfingers, nehochupechatat, [toddq] (https://toddq.itch.io/)
+**Level Design**
 
-## Programming
-nehochupechatat, [John Battagline] (https://www.johnbattagline.com/)
+mrcolddeadfingers, nehochupechatat, [toddq](https://toddq.itch.io/)
 
-## Music
+**Programming**
+
+nehochupechatat, [John Battagline](https://www.johnbattagline.com/)
+
+**Music**
+
 mrcolddeadfingers
 
-## Sound Design 
+**Sound Design**
+
 nehochupechatat
 
-## Original Story / Game Design Blueprint
+**Original Story / Game Design Blueprint**
+
 mrcolddeadfingers
 
-## Tools Used
+**Tools Used**
+
 Macromedia Flash 8, Aseprite, Furnace Tracker
 
 # Build Requirements
